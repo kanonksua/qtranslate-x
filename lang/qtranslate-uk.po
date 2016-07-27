@@ -431,7 +431,7 @@ msgstr "Language is already last!"
 #: admin/qtx_admin_utils.php:539
 #, fuzzy
 msgid "Unknown Language"
-msgstr "Язык"
+msgstr "Мова"
 
 #: admin/qtx_admin_utils.php:540
 msgid "Not enabled"
